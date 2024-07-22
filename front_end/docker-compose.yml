@@ -1,0 +1,19 @@
+version: '3.8'  # Use the appropriate version of Docker Compose syntax
+
+services:
+  php-apache:
+    image: php:8.0-apache
+    container_name: php-apache
+    ports:
+      - "8080:80"  # Map port 8080 on host to port 80 in the container
+    volumes:
+      - ./src:/var/www/html  # Mount local './src' directory to '/var/www/html' in container
+    environment:
+      APACHE_DOCUMENT_ROOT: /var/www/html  # Set Apache document root
+    restart: unless-stopped  # Restart policy
+    networks:
+      - my_network  # Connect to the custom network
+
+networks:
+  my_network:
+    driver: bridge

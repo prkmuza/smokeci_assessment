@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "669d363bd6dc33829d0b7d33"
+  },
+  "phone_number": "+27 22 821 1020",
+  "status": "valid",
+  "country_code_string": "ZA",
+  "country_code_number": "27",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 16:24:27"
+},
+{
+  "_id": {
+    "$oid": "669d368f6aa3041fb30b4e33"
+  },
+  "phone_number": "+36 63 709 401",
+  "status": "valid",
+  "country_code_string": "HU",
+  "country_code_number": "36",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 16:25:51"
+},
+{
+  "_id": {
+    "$oid": "669d368f6aa3041fb30b4e34"
+  },
+  "phone_number": "+36 1 278 0862",
+  "status": "valid",
+  "country_code_string": "HU",
+  "country_code_number": "36",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 16:25:51"
+},
+{
+  "_id": {
+    "$oid": "669d3b266aa3041fb30b4e3b"
+  },
+  "phone_number": "+61 3 3558 7732",
+  "status": "valid",
+  "country_code_string": "AU",
+  "country_code_number": "61",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 16:45:26"
+},
+{
+  "_id": {
+    "$oid": "669d3b266aa3041fb30b4e3c"
+  },
+  "phone_number": "+61 3 6692 0323",
+  "status": "valid",
+  "country_code_string": "AU",
+  "country_code_number": "61",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 16:45:26"
+},
+{
+  "_id": {
+    "$oid": "669d407bd6dc33829d0b7d36"
+  },
+  "phone_number": "+971 7 770 4679",
+  "status": "valid",
+  "country_code_string": "AE",
+  "country_code_number": "971",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 17:08:11"
+},
+{
+  "_id": {
+    "$oid": "669d407bd6dc33829d0b7d38"
+  },
+  "phone_number": "+971 4 638 3289",
+  "status": "valid",
+  "country_code_string": "AE",
+  "country_code_number": "971",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 17:08:11"
+},
+{
+  "_id": {
+    "$oid": "669d407bd6dc33829d0b7d39"
+  },
+  "phone_number": "+971 2 274 1280",
+  "status": "valid",
+  "country_code_string": "AE",
+  "country_code_number": "971",
+  "phone_number_type": "fixed-line",
+  "created_at": "21-07-2024 17:08:11"
+},
+{
+  "_id": {
+    "$oid": "669d6380d6dc33829d0b7d3a"
+  },
+  "phone_number": "+54 609-561-2865",
+  "status": "valid",
+  "country_code_string": "AR",
+  "country_code_number": "54",
+  "phone_number_type": "premium rate",
+  "created_at": "21-07-2024 19:37:36"
+}]
